@@ -128,7 +128,7 @@ def watermark_tiled(
     cuda.Context.synchronize()
     elapsed = time.time() - start
 
-    # Descargar resultado
+    
     out = np.empty_like(orig)
     cuda.memcpy_dtoh(out, d_out)
 
