@@ -63,6 +63,8 @@ flutter:
     - assets/logo_ups_glam.png
     - assets/banner_glam.png
     - assets/Banner_Minima.png
+    - assets/logo_ups_BN.png
+    - assets/logo_ups_colores.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
